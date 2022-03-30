@@ -1,5 +1,5 @@
 # Premiere-Auto-Import-Tool
-[English](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README.md) - [Spanish](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README-es.md)
+[[English](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README.md)] - [[Spanish](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README-es.md)]
 
 This program allows you to automatically import all the files that are added to a folder, it only imports them once, convenient for when you are downloading many videos from the internet.
 
