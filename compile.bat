@@ -1,0 +1,1 @@
+python -m nuitka --run --follow-imports --onefile "./Import Videos.py" "./compiled/Import Videos.py"
