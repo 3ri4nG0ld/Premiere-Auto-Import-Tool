@@ -1,4 +1,6 @@
+# Premiere-Auto-Import-Tool
 [English](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README.md) - [Spanish](https://github.com/BrianGoldYT/Premiere-Auto-Import-Tool/blob/main/README-es.md)
+
 This program allows you to automatically import all the files that are added to a folder, it only imports them once, convenient for when you are downloading many videos from the internet.
 
 To be able to use this program in premiere we first have to install the Pymere Link extension, [this script](https://raw.githubusercontent.com/BrianGoldYT/Premiere-Auto-Import-Tool/main/Install_Pymiere_Link.bat) will install the extension automatically
